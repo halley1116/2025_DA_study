@@ -4,10 +4,10 @@
 - 끝까지 파이팅 합시다. 으랏챠! 💪
 ## 📏 Rules
 ### Commit
-  - 조 이름(혹은 본인 이름)/파일명
-  - EX) 1조/보은은행데이터분석 or 홍길동/보은은행데이터분석
-  - 조 이름(혹은 본인 이름)/파일명/Update Files(파일 수정 시)
-  - EX) 1조/보은은행데이터분석/Update Files or 홍길동/보은은행데이터분석/Update Files
+  - 본인 이름 이니셜_조 숫자/파일명
+  - EX) HGD_1/보은은행데이터분석
+  - 본인 이름 이니셜_조 숫자/파일명/Update Files(파일 수정 시)
+  - EX) HGD_1/보은은행데이터분석/Update Files or HGD_1/보은은행데이터분석/Update Files
 ### 파일 및 폴더 구조
-  - 조 이름(혹은 본인 이름)/project-N(N번째 프로젝트인지 숫자 꼭! 명시)/.ipynb
-  - EX) 1조/project-1/보은은행데이터분석.ipynb or 홍길동/project-1/보은은행데이터분석.ipynb
+  - 본인 이름 이니셜_조 숫자/project-N(N번째 프로젝트인지 숫자 꼭! 명시)/.ipynb
+  - EX) HGD_1/project-1/보은은행데이터분석.ipynb or HGD_1/project-1/보은은행데이터분석.ipynb

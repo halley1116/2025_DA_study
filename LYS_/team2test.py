@@ -17,3 +17,6 @@ from sklearn.metrics import classification_report
 from sklearn.linear_model import LogisticRegression
 from sklearn.metrics import silhouette_score
 
+n = a + b
+a = 4
+b = 3 

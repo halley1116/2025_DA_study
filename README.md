@@ -5,9 +5,9 @@
 ## 📏 Rules
 ### Commit
   - 본인 이름 이니셜_조 숫자/파일명
-  - EX) HGD_1/보은은행데이터분석
+  - EX) HGD_1/대구은행데이터분석
   - 본인 이름 이니셜_조 숫자/파일명/Update Files(파일 수정 시)
-  - EX) HGD_1/보은은행데이터분석/Update Files or HGD_1/보은은행데이터분석/Update Files
+  - EX) HGD_1/대구은행데이터분석/Update Files or HGD_1/대구은행데이터분석/Update Files
 ### 파일 및 폴더 구조
   - 본인 이름 이니셜_조 숫자/project-N(N번째 프로젝트인지 숫자 꼭! 명시)/.ipynb
-  - EX) HGD_1/project-1/보은은행데이터분석.ipynb or HGD_1/project-1/보은은행데이터분석.ipynb
+  - EX) HGD_1/project-1/대구은행데이터분석.ipynb or HGD_1/project-1/대구은행데이터분석.ipynb
